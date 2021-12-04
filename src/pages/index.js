@@ -1,6 +1,7 @@
 import * as React from "react"
 
 // styles
+
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -9,7 +10,7 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 820,
 }
 const headingAccentStyles = {
   color: "#663399",
@@ -31,7 +32,7 @@ const listStyles = {
 const listItemStyles = {
   fontWeight: 300,
   fontSize: 24,
-  maxWidth: 560,
+  maxWidth: 960,
   marginBottom: 30,
 }
 
